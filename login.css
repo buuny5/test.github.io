@@ -1,0 +1,76 @@
+.bck{
+    padding:100px 0;
+    border-radius: 5px;
+    background-color:rgb(28, 58, 65);
+
+}
+.border-radius-top{
+    border-radius: 10px 10px 0px 0px;
+}
+.border-radius-btm{
+    border-radius: 0px 0px 10px 10px;
+}
+.box{
+    color:white;
+    margin:0 auto;
+    width:25%;
+    border: 1px;
+    text-align: center;
+    padding:10px;
+}
+.grey{
+    background-color: rgb(234, 234, 236);
+}
+.input input[type="text"],
+.input input[type="date"],
+.input input[type="password"] {
+    padding: 0 10px;
+    height: 30px;
+    width:80%;
+    background-color: white;
+    border-radius: 5px;
+    margin:10px auto;
+    box-shadow: 0;
+    border: none;            
+}
+.but{
+    background-color:rgb(31, 181, 172);
+    border-radius: 4px;
+    font-size: 14px;
+    border-style: none;
+    width: 80%;
+    height: 40px;
+    width:220;
+    cursor:pointer;
+    border: 0px solid transparent;
+    padding: 0;
+    color: #fff;
+    } 
+.radius1{
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
+.white{
+    background-color: #fff;
+    padding:0 10px 20px 10px;
+}
+.flex{
+    display:flex;
+}
+.fx1{
+    flex:1;
+}
+.grey1{
+    color:grey;
+}
+.instagram{
+    padding:0px 40px;
+    /* border: ; */
+}
+.green1{
+    color:rgb(31, 181, 172);
+
+}
+.pad{
+    padding: 15px;
+}
